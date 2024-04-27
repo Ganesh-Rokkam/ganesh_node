@@ -1,0 +1,59 @@
+{
+ "fitnessDetails":[
+    {
+        "Exercise_id":1,
+        "Workout_performed": "Weightlifting",
+        "Sets_completed": 4,
+        "Repetitions": 8,
+        "Intensity" :"High",
+        "Weight_lifted": 50,
+        "Calories_burned": 150
+    },
+    {
+        "Exercise_id":2,
+        "Workout_performed": "Running",
+        "Sets_completed": "N/A",
+        "Repetitions": "N/A",
+        "Intensity" :"Moderate",
+        "Weight_lifted": "N/A",
+        "Calories_burned": 300
+    },
+{
+    "Exercise_id":3,
+        "Workout_performed": "CrossFit",
+        "Sets_completed": 5,
+        "Repetitions": "Varies",
+        "Intensity" :"Very High",
+        "Weight_lifted": "Varies",
+        "Calories_burned": 400
+    },
+{
+    "Exercise_id":4,
+    "Workout_performed": "Yoga",
+    "Sets_completed": 1,
+    "Repetitions": "N/A",
+    "Intensity" :"Low",
+    "Weight_lifted": "N/A",
+    "Calories_burned": 100
+
+},
+{
+    "Exercise_id":5,
+"Workout_performed": "Circuit Training",
+"Sets_completed": 3,
+"Repetitions": 12,
+"Intensity" :"Moderate to High",
+"Weight_lifted": "Body Weight",
+"Calories_burned": 250
+},
+{
+    "Exercise_id":6,
+"Workout_performed": "Swimming",
+"Sets_completed": "N/A",
+"Repetitions": "N/A",
+"Intensity" :"Moderate",
+"Weight_lifted": "N/A",
+"Calories_burned": 350
+}
+ ]   
+}
